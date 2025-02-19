@@ -4,12 +4,12 @@
         <loc>https://pbvalentine.github.io/nagahitam/</loc>
         <lastmod>2025-02-18</lastmod>
         <changefreq>daily</changefreq>
-        <priority>1.0</priority>
+        <priority>0.5</priority>
     </url>
     <url>
         <loc>https://pbvalentine.github.io/nagahitam/scatterhitam.html</loc>
         <lastmod>2025-02-18</lastmod>
         <changefreq>daily</changefreq>
-        <priority>0.8</priority>
+        <priority>1.0</priority>
     </url>
 </urlset>
